@@ -2,7 +2,7 @@
 Buscador de letras de canciones usando una API con Fetch, Async Await y Módulos [EcmaScript 6]
 
 
-🌐 Link site 👉 https://guille0197.github.io/Search_Lyrics_Music_API/
+🌐 Link 👉 https://guille0197.github.io/Search_Lyrics_Music_API/
 
 # API 
 the api used is: 
