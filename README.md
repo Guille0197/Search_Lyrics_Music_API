@@ -1,10 +1,10 @@
-# Search_Lyrics_Music_API
+# Search_Lyrics_Music_API 🎶
 Buscador de letras de canciones usando una API con Fetch, Async Await y Módulos [EcmaScript 6]
 
 
 🌐 Link 👉 https://guille0197.github.io/Search_Lyrics_Music_API/
 
-# API 
+# API 🎯
 the api used is: 
 * 👉 https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search
 * 👉 https://lyrics.ovh/
